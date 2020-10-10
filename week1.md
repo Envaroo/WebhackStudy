@@ -14,7 +14,7 @@
     https://github.com/Finlandpotato/WebhackStudy/blob/main/week1.md
 
 > - Scheme : 사용할 프로토콜 (https:)
->Authority
+> - Authority
 >   > - Host : 서버 주소 (github.com)
 >   > - Port : 웹서버의 포트 정보
 > - Path : 웹 서버에서의 경로, /로 구분 (...WebhackStudy/blob/main/week1.md)
