@@ -11,7 +11,7 @@
 - URI는 리소스를 식별한다.
 - URL는 리소스 위치를 식별한다.
 
-    https://github.com/Finlandpotato/WebhackStudy/blob/main/week1.md
+'''https://github.com/Finlandpotato/WebhackStudy/blob/main/week1.md'''
 
 > - Scheme : 사용할 프로토콜 (https:)
 > - Authority
