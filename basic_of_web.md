@@ -71,3 +71,7 @@ TLS, SSL로 암호화된 HTTP가 HTTPS.
 Server에서 사용자의 요청을 처리한다.
 자체적으로 처리하거나, 동적 처리를 위해 어플리케이션으로 넘긴다.
 DBMS는 서버 내의 데이터베이스 관리를 돕는 어플리케이션이다.
+
+***
+
+출처 : https://dreamhack.io/lecture/courses/6
